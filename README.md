@@ -47,4 +47,4 @@ SewaMobil is an Android application built for car rental services. It allows use
 ### Clone the repository
 
 ```bash
-git clone 
+git clone https://github.com/rammm2005/de-rental.git
