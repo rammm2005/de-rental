@@ -1,4 +1,4 @@
-# SewaMobil - Car Rental Android App
+# De-Rental - Car Rental Android App
 
 SewaMobil is an Android application built for car rental services. It allows users to browse available cars, book rentals, manage their account, and make payments all from their mobile device. The app is designed to provide a seamless, efficient, and easy-to-use experience for both customers and service providers.
 
